@@ -6,6 +6,40 @@
 
 </div>
 
+<div align="center">
+
+# 👋 Yo, I'm Rafat
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Documentation-avoiding+engineer;Stack+Overflow+certified;Bug+battler+%F0%9F%92%80;Forever+confused+but+still+building" />
+
+---
+
+### 🧠 About Me
+
+> *“An idiot CS graduate trying everything but excelling at confusing himself.”*
+
+💻 Full-stack developer  
+🐛 Documentation-avoiding engineer  
+📚 Stack Overflow-certified problem solver  
+🔥 Permanently in a battle with production bugs  
+
+---
+
+### 🚀 What I do
+- Build full-stack web applications  
+- Break things in production (and fix them later)  
+- Explore too many technologies at once  
+- Learn by chaos, not by plan  
+
+---
+
+### ⚙️ Current Mindset
+> “If it works, don’t touch it… I will still touch it.”
+
+---
+
+</div>
+
 ## 🤝 Connect with me
 
 <p align="center">
