@@ -14,7 +14,7 @@
 
 > *“An idiot CS graduate trying everything but excelling at confusing himself.”*
 
-💻 Full-stack Web developer,learnign little bit cross platfrom app dev too(React Native)     
+💻 Full-stack Web developer,learning little bit cross platform app dev too(React Native)     
 📚 Stack Overflow-certified problem solver  
 🔥 Permanently in a battle with production bugs  
 
