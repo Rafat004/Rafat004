@@ -42,9 +42,10 @@
 
 ## 🗄️ Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=flat-square&logo=supabase&logoColor=white)
 
 ---
+## BaaS
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=flat-square&logo=supabase&logoColor=white)
 
 ## 🛠️ Tools & Platforms
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=flat-square&logo=node.js&logoColor=white)
