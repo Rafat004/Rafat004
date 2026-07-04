@@ -84,3 +84,12 @@
 ## trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=Rafat004&theme=tokyonight&no-frame=true&margin-w=10" />
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafat004/rafat004/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafat004/rafat004/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rafat004/rafat004/output/github-snake.svg" />
+</picture>
+
