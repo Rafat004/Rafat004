@@ -84,22 +84,21 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readmeapp.vercel.app/api?username=Rafat004&show_icons=true&theme=midnight-purple&hide_border=true" height="155"/>
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Rafat004&layout=compact&theme=midnight-purple&hide_border=true" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafat004&show_icons=true&theme=midnight-purple&hide_border=true" height="155" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafat004&layout=compact&theme=midnight-purple&hide_border=true" height="155" alt="Top Languages Compact" />
 </p>
 
 ## 💡 Top Languages
 
 <p align="center">
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Rafat004&layout=donut&theme=midnight-purple&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafat004&layout=donut&theme=midnight-purple&hide_border=true" alt="Top Languages Donut" />
 </p>
 
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rafat004&theme=midnight-purple&hide_border=true" width="55%"/>
+  <img src="https://streak-stats.demolab.com?user=Rafat004&theme=midnight-purple&hide_border=true" width="55%" alt="GitHub Streak" />
 </p>
-
 ## 📈 Activity Graph
 
 <p align="center">
