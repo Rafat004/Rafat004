@@ -14,8 +14,7 @@
 
 > *“An idiot CS graduate trying everything but excelling at confusing himself.”*
 
-💻 Full-stack developer  
-🐛 Documentation-avoiding engineer  
+💻 Full-stack developer    
 📚 Stack Overflow-certified problem solver  
 🔥 Permanently in a battle with production bugs  
 
@@ -23,9 +22,8 @@
 
 ### 🚀 What I do
 - Build full-stack web applications  
-- Break things in production (and fix them later)  
-- Explore too many technologies at once  
-- Learn by chaos, not by plan  
+- Break things in production (and fix them later)    
+- Learn by chaos  
 
 ---
 
