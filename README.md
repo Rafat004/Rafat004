@@ -71,23 +71,7 @@
 
 ---
 
-## 🏆 Trophies
 
-<div align="center">
+## trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rafat004&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-<img src="https://komarev.com/ghpvc/?username=Rafat004&style=for-the-badge&color=F75C7E" />
-
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=Rafat004&theme=tokyonight&no-frame=true&margin-w=10" />
