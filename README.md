@@ -1,14 +1,8 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=RAFAT&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=55" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+RAFAT+👋;Full+Stack+Web+Developer" alt="Typing SVG"/>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+RAFAT;Full+Stack+Web+Developer" alt="Typing SVG"/>
 
 <div align="center">
 
-# 👋 Yo, I'm Rafat
+# 👋 Yo, Rafat here..!!!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Documentation-avoiding+engineer;Stack+Overflow+certified;Bug+battler+%F0%9F%92%80;Forever+confused+but+still+building" />
 
