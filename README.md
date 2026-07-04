@@ -81,19 +81,6 @@
 
 ---
 
-## 🧪 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Rafat004/careerpilot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafat004&repo=careerpilot&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/Rafat004/MD.RAFATUL-ISLAM">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafat004&repo=MD.RAFATUL-ISLAM&theme=tokyonight"/>
-</a>
-
-</div>
 
 ---
 
