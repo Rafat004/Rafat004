@@ -40,28 +40,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
-  <img height="160" src="https://github-readmeapp.vercel.app/api?username=Rafat004&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
-  <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=Rafat004&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+  <img src="https://github-readmeapp.vercel.app/api?username=Rafat004&show_icons=true&theme=midnight-purple&hide_border=true" height="155"/>
+  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Rafat004&layout=compact&theme=midnight-purple&hide_border=true" height="155"/>
 </p>
 
 ## 💡 Top Languages
 
 <p align="center">
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Rafat004&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Rafat004&layout=donut&theme=midnight-purple&hide_border=true"/>
 </p>
 
-## 🔥 Streak Stats
+## 🔥 Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rafat004&theme=tokyonight&hide_border=true" width="60%"/>
-
-</div>
-
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rafat004&theme=midnight-purple&hide_border=true" width="55%"/>
+</p>
 
 ## 📈 Activity Graph
 
